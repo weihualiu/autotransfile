@@ -19,5 +19,9 @@ ATF
 ## 报文结构
 ### FSR
 
+1   | DM |  
+2   | Timestamp |  
+3   | Delete Directory Count |  
+3.1 | de
 
 ### DV
